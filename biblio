@@ -1,0 +1,29 @@
+Lien Ambari : https://fr.hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox/
+Ambari Utilisation : https://fr.hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/section/2/
+Hive documentation : https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Joins
+sbt : https://www.scala-sbt.org/1.0/docs/Basic-Def.html
+sbt example : https://www.scala-sbt.org/1.0/docs/sbt-by-example.html
+hadoop installation on windows : https://exitcondition.com/install-hadoop-windows/
+scala hello world : https://github.com/phatak-dev/spark2.0-examples
+install intelij, scala, sbt, spark : https://github.com/phatak-dev/spark2.0-examples
+Bouqin spark : https://github.com/achinnasamy/bigdata/blob/master/Spark%20-%20The%20Definitive%20Guide%20-%20Big%20data%20processing%20made%20simple.pdf
+kafka quick intro : https://kafka.apache.org/quickstart
+kafka cluster : https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451531-deployez-et-administrez-un-cluster-kafka
+kafka scala : Kafka Producer/Consumer Example in Scala
+kafka schema registry : Using Schema Registry — Confluent Platform
+kafka bonus : Spark Structured Streaming avec Kafka Schema Registry - Blog Xebia - Expertise Technologique & Méthodes Agiles
+Spark DataFrame to kafa : https://stackoverflow.com/questions/50551305/spark-dataframe-to-kafka/50917272
+kafka - spark : Structured Streaming + Kafka Integration Guide (Kafka broker version 0.10.0 or higher) - Spark 2.2.0 Documentation
+spark - task not serialisable : Spark, comprendre et corriger l'exception Task not serializable - Blog Xebia - Expertise Technologique & Méthodes Agiles
+write to kafka : https://github.com/BenFradet/spark-kafka-writer/blob/master/src/main/scala/com/github/benfradet/spark/kafka/writer/RDDKafkaWriter.scala
+pyspark ETL projet : AlexIoannides/pyspark-example-project
+kafka + spark streaming : Spark 2.3.0 Failed to find data source: kafka
+kafka streaming with spark streaming : Spark Streaming + Kafka Integration Guide (Kafka broker version 0.8.2.1 or higher) - Spark 2.3.0 Documentation
+kafka spark streaming : Data Processing and Enrichment in Spark Streaming with Python and Kafka
+Lexique big data : Lexique big data, voir mail
+HDP tutorial for all technos : https://github.com/hortonworks/data-tutorials/blob/master/tutorials/hdp/hadoop-tutorial-getting-started-with-hdp/tutorial-1.md
+workflow documentation : https://docs.hortonworks.com/HDPDocuments/Ambari-2.7.1.0/bk_workflow-management/bk_workflow-management.pdf
+hive and spark (dans HDP) : https://community.hortonworks.com/questions/232021/spark-unable-to-connect-hive-database-in-hdp-301.html
+hive & spark : hortonworks-spark/spark-llap
+hive and spark : Cant save table to hive metastore, HDP 3.0
+hive and spark : https://community.hortonworks.com/articles/223626/integrating-apache-hive-with-apache-spark-hive-war.html
