@@ -5,7 +5,7 @@ sbt : https://www.scala-sbt.org/1.0/docs/Basic-Def.html
 sbt example : https://www.scala-sbt.org/1.0/docs/sbt-by-example.html
 hadoop installation on windows : https://exitcondition.com/install-hadoop-windows/
 scala hello world : https://github.com/phatak-dev/spark2.0-examples
-install intelij, scala, sbt, spark : https://github.com/phatak-dev/spark2.0-examples
+install intelij, scala, sbt, spark : https://kaizen.itversity.com/setup-development-environment-intellij-and-scala-big-data-hadoop-and-spark/
 Bouqin spark : https://github.com/achinnasamy/bigdata/blob/master/Spark%20-%20The%20Definitive%20Guide%20-%20Big%20data%20processing%20made%20simple.pdf
 kafka quick intro : https://kafka.apache.org/quickstart
 kafka cluster : https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451531-deployez-et-administrez-un-cluster-kafka
